@@ -17,10 +17,3 @@ The form includes the following HTML elements:
 * Navigation Bar: Navigation links for site pages.
 * Semantic Markup: Structured with header, nav, main, section, and footer elements.
 
-## Project Structure
-
-```text
-├── index.html
-├── about.html
-├── contact.html
-└── README.md
